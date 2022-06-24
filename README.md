@@ -11,7 +11,7 @@ Educational web communicator project for learning Erlang. The purpose is to prov
 # realization
 ## P1
 1. write not yet a communicator
-2. but a shell programm capable of receiving user input and displaying some response
+2. but a shell program capable of receiving user input and displaying some response
 3. just a stub - program could be echoing back the user input or returning a some interesting variant of it
 4. optional: implement the simplest chatbot
 
