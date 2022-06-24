@@ -13,13 +13,15 @@ Educational web communicator project for learning Erlang. The purpose is to prov
 1. write not yet a communicator
 2. but a shell program capable of receiving user input and displaying some response
 3. just a stub - program could be echoing back the user input or returning a some interesting variant of it
-4. learn to share source code with others
-5. optional: implement the simplest chatbot
+4. distribute work between more than 1 process - communicate succesfuly between them
+5. learn to share source code with others
+6. optional: implement the simplest chatbot
 
 ## P2
 1. start with adding tests for P1 implementation
-2. communicator should enable talking between different machines running Erlang
-3. discuss the plan for achieving that communicator capability (using OTP behaviors and Erlang distribution is recommended)
+2. extend P1 further by adding conectivity with other Erlang nodes
+3. communicator should enable talking between different machines running Erlang
+4. discuss the plan for achieving that communicator capability (using OTP behaviors and Erlang distribution is recommended)
    - how the program should be started on each machines? can you automize that somehow?
    - how the programs shall discover each other?
    - do you want to handle named/identifable users anyhow? this will reassemble real communicator but will bring complexity to the project, because you will need to maintain user database somehow
