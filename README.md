@@ -33,7 +33,7 @@ Educational web communicator project for learning Erlang. The purpose is to prov
 1. https://web.njit.edu/~ronkowit/eliza.html
 
 # tasks
-- [ ] @u3s draft of README
+- [x] @u3s draft of README
 - [ ] discuss test driven approach - if YES, what tests should be provide - write test slogans, write tests?
 - [ ] review README
 - [ ] discuss where solutions could be stored: definetely not main, but maybe a fork or a branch ?
